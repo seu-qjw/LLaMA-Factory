@@ -714,5 +714,18 @@
       "prompt": "content"
     },
     "folder": "python"
+  },
+
+
+  "llm1_0603": {
+    "file_name": "sample_v1.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system",
+      "history": "history"
+    }
   }
+
 }
